@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HillujaScript : MonoBehaviour {
+public class WeatherManager : MonoBehaviour {
 
     public Transform rainPosition;
     public Transform snowPosition;
